@@ -1,6 +1,6 @@
 
 import NavbarAdmin from '../../Components/Administrador/NavbarAdmin.jsx';
-import ListaAdminsitradores from '../../Components/Administrador/Administradores/listaAdministradores.jsx';
+import ListaAdminsitradores from '../../Components/Administrador/Administradores/ListaAdministradores.jsx';
 
 export default function Administradores() {
 

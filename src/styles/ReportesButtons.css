@@ -1,0 +1,14 @@
+.buttonReporte {
+    padding: 20px 30px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 8px; /* Esquinas redondeadas */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin: 10px;
+}
+
+.buttonReporte:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,23 @@
+
+
+.bodybienvenidaAdmin{
+    display: flex;                     /*Centra los elementos en el eje horizontal*/
+    justify-content: center;           /*Centra los elementos en el eje vertical*/
+    /*align-items: center;               Centra los elementos en el eje horizontal*/
+    height: 100vh;                     /*100% del alto de la pantalla*/
+    font-size: 2rem;                   /*Tamaño de la fuente*/
+    font-weight: bold;                /*Negrita*/
+}
+
+.bienvenidaAdmin{
+    margin-top: 150px;                  /*Margen superior*/
+}
+/*
+.background-image {
+    background-image: url('../assets/back2.png');  
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+*/
+

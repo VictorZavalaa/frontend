@@ -1,0 +1,69 @@
+/* Contenedor para centrar el formulario */
+.form-container2 {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el título */
+.form-container2 h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+/* Estilos para los campos de entrada */
+.form-container2 input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+/* Cambia el color del borde cuando el campo está enfocado */
+.form-container2 input:focus {
+    border-color: #5b08a7;
+    outline: none;
+}
+
+/* Estilos para el botón */
+.form-container2 .btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #5b08a7;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-container2 .btn:hover {
+    background-color: #4a067f;
+}
+
+#h1_Style{
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #c91e1e;
+}
+/*
+.background-container2{
+    background-image: url('../assets/back.webp');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+
+
+}
+*/

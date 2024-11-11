@@ -1,5 +1,5 @@
-import LoginGeneral from '../components/LoginGeneral';
-import NavbarGeneral from '../components/NavbarGeneral';
+import LoginGeneral from '../Components/LoginGeneral';
+import NavbarGeneral from '../Components/NavbarGeneral';
 
 export default function Login() {
 

@@ -1,4 +1,4 @@
-import NavbarGeneral from '../components/NavbarGeneral';
+import NavbarGeneral from '../Components/NavbarGeneral';
 import Admin from '../Components/Admin';
 export default function LoginAdmin() {
 

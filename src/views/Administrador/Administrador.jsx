@@ -1,7 +1,7 @@
-import NavbarAdmin from '../../components/Administrador/NavbarAdmin.jsx';
-import BienvenidaAdmin from '../../components/Administrador/BienvenidaAdmin.jsx';
+import NavbarAdmin from '../../Components/Administrador/NavbarAdmin.jsx';
+import BienvenidaAdmin from '../../Components/Administrador/BienvenidaAdmin.jsx';
 import '../../styles/BienvenidaAdmin.css';
-import DescargarCSV from '../../components/DescargarCSV.jsx';
+import DescargarCSV from '../../Components/DescargarCSV.jsx';
 
 
 

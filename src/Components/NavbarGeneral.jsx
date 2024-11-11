@@ -27,7 +27,7 @@ const NavbarGeneral = () => {
               <ul className="navbar-nav ms-auto">
   
                 <li className="nav-item">
-                  <a className="nav-link" href="http://localhost:5173/loginAdmin" > Administrador </a>
+                  <a className="nav-link" href="/loginAdmin" > Administrador </a>
                 </li>
 
               </ul>
